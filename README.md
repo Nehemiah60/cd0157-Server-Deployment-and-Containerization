@@ -1,4 +1,4 @@
-# Deploying a Flask API !!!
+# Deploying a Flask API !!
 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
 
@@ -87,6 +87,3 @@ Completing the project involves several steps:
 
 For more detail about each of these steps, see the project lesson.
 
-#ENV_FILE CONTENTS
-JWT_SECRET='myjwtsecret'
-LOG_LEVEL=DEBUG
